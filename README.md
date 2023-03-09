@@ -1,1 +1,2 @@
-﻿# ATmega8-Programming
+﻿# ATmega8-Programming 
+Computer Interfacing and Microcontroller Lab
